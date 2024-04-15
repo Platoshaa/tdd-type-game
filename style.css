@@ -1,0 +1,12 @@
+.box{
+    position: relative;
+    max-width: 1000px;
+    font-size: 40px;
+    color: #000000b7;
+}
+.value{
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: brown;
+}
